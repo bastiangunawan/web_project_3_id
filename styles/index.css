@@ -117,7 +117,7 @@
 }
 
 .place{
-    height: 100vh;
+    height: 830px;
     display: grid;
     grid-gap: 2.5em;
     grid-template-columns: repeat(2, 1fr);
