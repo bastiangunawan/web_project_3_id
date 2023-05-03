@@ -1,0 +1,26 @@
+.place__link{
+    width: 248px;
+    height: 48px;
+    padding: 13px 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #fff;
+    background-color: #0278fe;
+    text-decoration: none;
+    text-align: center;
+    grid-area: frame;
+    box-sizing: border-box;
+}
+
+.place__link:hover {
+    background: #0063d2;
+  }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__link  {
+    margin-left: 16px;
+  }
+}

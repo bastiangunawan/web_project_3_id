@@ -1,0 +1,30 @@
+.place__website__url-heading{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #aaa;
+    margin-top: 85px;
+    margin-bottom: 8px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+    .place__website__url-heading {
+        font-size: 12px;
+        line-height: 15px;
+        grid-area: title;
+        margin-top: 0;
+    }
+  }
+  
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .place__website__url-heading  {
+        font-size: 12px;
+        line-height: 15px;
+        margin: 0 16px 0;
+        grid-area: title;
+    }
+}
