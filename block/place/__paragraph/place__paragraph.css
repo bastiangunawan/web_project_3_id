@@ -16,7 +16,6 @@
     .place__paragraph {
         width: 352px;
         font-size: 16px;
-        grid-area: paragraph;
     }
   }
 
@@ -25,6 +24,5 @@
         width: 288px;
         font-size: 16px;
         margin: auto;
-        grid-area: paragraph;
     }
 }

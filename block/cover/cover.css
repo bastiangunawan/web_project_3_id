@@ -6,13 +6,13 @@
     flex-direction: column;
     margin: 92px auto 0;
     background-image: url("../../images/visit_us.png");
-    background-repeat: no-repeat;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
     .cover {
         width: 768px;
         height: 746px;
+        background-size: 100% 100%;
         margin: 92px auto 0;
     }
   }
@@ -21,6 +21,8 @@
     .cover {
         width: 320px;
         height: 254px;
+        background-size: 100% 100%;
+        object-fit: cover;
         margin: 64px auto 0;
     }
   }
