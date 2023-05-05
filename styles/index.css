@@ -18,7 +18,7 @@
 @import url(../block/place/place.css);
 @import url(../block/place/__title/place__title.css);
 @import url(../block/place/__website/place__website.css);
-@import url(../block/place/__website/place__website-url_heading.css);
+@import url(../block/place/__website/place__website-url__heading.css);
 @import url(../block/place/__website/place__website-artist.css);
 @import url(../block/place/__image/place__image.css);
 @import url(../block/paragraph/paragraph-container.css);
