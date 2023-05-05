@@ -1,5 +1,5 @@
 .lead__image{
-    margin: 0 auto 92px; 
+    margin: 0 auto 92px;
     width: 984px;
     height: 615px;
     filter: grayscale(1);
@@ -14,9 +14,9 @@
   }
   
 @media screen and (min-width: 320px) and (max-width: 767px) {
-.lead__image {
-    width: 320px;
-    height: 200px;
-    margin: 0 auto 64px;
-}
+    .lead__image {
+        width: 320px;
+        height: 200px;
+        margin: 0 auto 64px;
+    }
 }
