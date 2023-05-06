@@ -24,7 +24,7 @@
     .place__website-url-heading  {
         font-size: 12px;
         line-height: 15px;
-        margin: 0 16px 0;
+        margin: 0 16px 8px;
         grid-area: title;
     }
 }
